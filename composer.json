@@ -1,0 +1,10 @@
+{
+	"name": "mypackage/demo",
+	"description": "Mydemo-Demo",
+	"version": "dev-master",
+	"source": {
+		"url": "git@github.com:toamitmca/mydemo.git",
+		"type": "git",
+		"reference": "origin/master"
+	}
+}
