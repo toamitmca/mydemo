@@ -2,13 +2,12 @@
 	"name": "mypackage/demo",
 	"description": "Mydemo-Demo",
 	"version": "dev-master",
-		"authors": [
-		        {
-		            "name": "Igor Gonchar"
-		            , "email": "igor.g@didww.com"
-		            , "homepage": "https://www.didww.com/"
-		        }
-		    ],
+	"authors": [
+		   {
+		     "name": "Igor Gonchar",
+		     "email": "igor.g@didww.com"
+		   }
+		],
 	"source": {
 		"url": "git@github.com:toamitmca/mydemo.git",
 		"type": "git",
