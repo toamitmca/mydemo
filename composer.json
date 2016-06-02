@@ -2,6 +2,7 @@
 	"name": "mypackage/demo",
 	"description": "Mydemo-Demo",
 	"version": "dev-master",
+	"license": "MIT",
 	"authors": [
 		   {
 		     "name": "Igor Gonchar",
