@@ -1,1 +1,6 @@
 # mydemo
+The mydemo/demo License (MIT)
+
+Copyright (c) <mydemo>
+
+Hello World
